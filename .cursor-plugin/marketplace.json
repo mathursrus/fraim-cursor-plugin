@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "FRAIM marketplace plugins for accountable AI workforce workflows.",
-    "version": "2.0.179"
+    "version": "2.0.180"
   },
   "plugins": [
     {
       "name": "fraim",
       "source": "plugins/fraim",
       "description": "Run FRAIM jobs, skills, rules, evidence, and mentoring workflows from Cursor.",
-      "version": "2.0.179",
+      "version": "2.0.180",
       "category": "Productivity",
       "tags": [
         "mcp",
