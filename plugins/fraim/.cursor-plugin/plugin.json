@@ -1,0 +1,24 @@
+{
+  "name": "fraim",
+  "version": "2.0.179",
+  "description": "Run FRAIM jobs, skills, rules, evidence, and mentoring workflows from Cursor.",
+  "author": {
+    "name": "FRAIM",
+    "email": "support@fraimworks.ai"
+  },
+  "homepage": "https://fraimworks.ai",
+  "repository": "https://github.com/mathursrus/fraim-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "fraim",
+    "mcp",
+    "ai-workforce",
+    "ai-management",
+    "agent-workflows"
+  ],
+  "logo": "assets/logo.png",
+  "rules": "rules/",
+  "skills": "skills/",
+  "commands": "commands/",
+  "mcpServers": "mcp.json"
+}
